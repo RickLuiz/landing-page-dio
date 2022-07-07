@@ -18,6 +18,7 @@ div img{
     display: block;
     width: 100%;
 }
+
 .flex-container{
     display: flex;
     max-width: 992px;
@@ -54,7 +55,6 @@ header .menu{
     height: 100vh;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .apresentacao .texto-apresentacao{
@@ -127,7 +127,6 @@ header .menu{
     color: #fff;
     font-size: 32px;
     margin-bottom: 20px;
-
 }
 
 .list-servicos{
@@ -137,7 +136,6 @@ header .menu{
 
 .list-servicos .item-servico{
     text-align: center;
-
 }
 
 .item-servico a{
@@ -268,6 +266,7 @@ footer .footer{
         min-width: 320px;
         margin: auto;
     }
+    
     .list-servicos{
         flex-direction: column;
     }
@@ -289,5 +288,4 @@ footer .footer{
         width: 100%;
         margin-bottom: 20px;
     }
-
 }
